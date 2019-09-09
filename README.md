@@ -1,4 +1,4 @@
-# BigInt_Library
+# Big Integer Library
 Simple implementation of a Big integer class using strings
 
 This is a simple implementation of a Big integer class
